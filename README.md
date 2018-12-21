@@ -1,30 +1,30 @@
 # Insight API
 
-A Ravencoin blockchain REST and web socket API service for [Ravencore Node](https://github.com/underdarkskies/ravencore-node).
+A Ritocoin blockchain REST and web socket API service for [Ritocore Node](https://github.com/traysi/ritocore-node).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/underdarkskies/insight-ui.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/traysi/insight-ui.
 
 ## Getting Started
 
 ```bashl
-npm install -g ravencore-node@latest
-ravencore-node create mynode
+npm install -g ritocore-node@latest
+ritocore-node create mynode
 cd mynode
-ravencore-node install insight-api
-ravencore-node start
+ritocore-node install insight-api
+ritocore-node start
 ```
 
 The API endpoints will be available by default at: `http://localhost:3001/insight-api/`
 
 ## Prerequisites
 
-- [Ravencore Node](https://github.com/underdarkskies/ravencore-node)
+- [Ritocore Node](https://github.com/traysi/ritocore-node)
 
-**Note:** You can use an existing Ravencoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `raven.conf`, as well as a few other additional fields.
+**Note:** You can use an existing Ritocoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `rito.conf`, as well as a few other additional fields.
 
 ## Query Rate Limit
 
-To protect the server, insight-api has a built it query rate limiter. It can be configurable in `ravencore-node.json` with:
+To protect the server, insight-api has a built it query rate limiter. It can be configurable in `ritocore-node.json` with:
 ``` json
   "servicesConfig": {
     "insight-api": {
@@ -34,7 +34,7 @@ To protect the server, insight-api has a built it query rate limiter. It can be 
     }
   }
 ```
-With all the configuration options available: https://github.com/underdarkskies/insight-api/blob/master/lib/ratelimiter.js#L10-17
+With all the configuration options available: https://github.com/traysi/insight-api/blob/master/lib/ratelimiter.js#L10-17
 
 Or disabled entirely with:
 ``` json
@@ -303,7 +303,7 @@ POST response:
   /insight-api/peer
 ```
 
-### Status of the Ravencoin Network
+### Status of the Ritocoin Network
 ```
   /insight-api/status?q=xxx
 ```
@@ -348,7 +348,7 @@ Sample output:
 }
 ```
 
-`<ravencoinAddress>`: new transaction concerning <ravencoinAddress> received from network. This event is published in the `<ravencoinAddress>` room.
+`<ritocoinAddress>`: new transaction concerning <ritocoinAddress> received from network. This event is published in the `<ritocoinAddress>` room.
 
 `status`: every 1% increment on the sync task, this event will be triggered. This event is published in the `sync` room.
 
