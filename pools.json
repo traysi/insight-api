@@ -184,8 +184,8 @@
     	]
     },
     {
-    	"poolName": "RavenCoin.World",
-    	"url": "https://pool.ravencoin.world/",
+    	"poolName": "RitoCoin.World",
+    	"url": "https://pool.ritocoin.world/",
     	"searchStrings": [
     		"RQcHE3HRRbT3KwFnvpzDfj9tpgUPwQ6BeB",
 		"RSos8DUfQJES9CkhLN42NpydacdrAu6RRk",
@@ -358,8 +358,8 @@
   	]
     },
     {
-	"poolName": "RavenMiner",
-	"url": "https://ravenminer.com/",
+	"poolName": "RitoMiner",
+	"url": "https://ritominer.com/",
 	"searchStrings": [
 		"RNJMLCLiss7hf23rZSq9BzhoQ94H5EDQTy",
 		"RFtHhp8S43JDnzAJz9GDvups6pdJjBA7nM",
@@ -382,8 +382,8 @@
 	]
     },
     {
-	"poolName": "RavenMiner EU",
-	"url": "https://eu.ravenminer.com",
+	"poolName": "RitoMiner EU",
+	"url": "https://eu.ritominer.com",
 	"searchStrings": [
 		"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
 	]
