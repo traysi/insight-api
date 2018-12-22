@@ -1,22 +1,92 @@
 [
-
-{ "url": "", "poolName": "minermore.com",        "searchStrings": [ "BRTraysiJ1qi6Y1nB1q44NcfM1eENptH63" ] },
-{ "url": "", "poolName": "gos.cx",               "searchStrings": [ "BLbhzsRhwfhL9QwhgZ3RL7Sis44DAbNHDS" ] },
-{ "url": "", "poolName": "icemining.ca",         "searchStrings": [ "BJ3kW4QDH81NqFCmj9LNg98yWY4Fo8hRqB" ] },
-{ "url": "", "poolName": "xd.dapool.me",         "searchStrings": [ "BHbfJJehD1QNCUZQHeLmD8fsY7LgfBNGXo" ] },
-{ "url": "", "poolName": "phi-phi-pool.com",     "searchStrings": [ "BMeFkKiPMrZToUrs8CwCaiSj82t9MNUhiH" ] },
-{ "url": "", "poolName": "pickaxe.pro",          "searchStrings": [ "BBkBEQYj24uCbQXzzfFz81UZNQvb5B7ZXd" ] },
-{ "url": "", "poolName": "blockify.xyz",         "searchStrings": [ "BBnEoEe41fZNHAwjELWd7PYSmCKbV1egTM" ] },
-{ "url": "", "poolName": "coolmine.top",         "searchStrings": [ "BBC73PNiR7Es5gmnGH57CxvLfUYxLWFMLy" ] },
-{ "url": "", "poolName": "marspool.org",         "searchStrings": [ "BS4ccCdMGaCKeCvjUpDQvse61VKaMgJGwR" ] },
-{ "url": "", "poolName": "blockchainmeup.org",   "searchStrings": [ "B8SWL8qrA8ndzLev6aEKKpRCfxtZp6Fjny" ] },
-{ "url": "", "poolName": "antares-pool.club",    "searchStrings": [ "B9b3CFHdA8tFc3NYtnRLqDGPTZeQ1SDAs8" ] },
-{ "url": "", "poolName": "hashfaster.com",       "searchStrings": [ "BPojezeQP4KnT2n59zgKPqXvXLMtEqMZLn" ] },
-{ "url": "", "poolName": "nosuchpool.cloud",     "searchStrings": [ "BGL4wzd4mZyzfsdcR6TPsHFMkcf2XRjhP9" ] },
-{ "url": "", "poolName": "focus-pool.com",       "searchStrings": [ "BBYbqnFNdz9xAjnS2nG8vMjfdkPRoAXX3e" ] },
-{ "url": "", "poolName": "cryptopool.cash",      "searchStrings": [ "BEYEByKfj5DciJ2duoZyhRUeJHqe2MxxxC" ] },
-{ "url": "", "poolName": "pool.rig.tokyo",       "searchStrings": [ "BMnMfaDJSE2giPfAMVybmMbwjL9sjg9Ug8" ] },
-{ "url": "", "poolName": "arcpool",              "searchStrings": [ "BRdk2DanqwfBk1oNKhK9Fnt6hSf9Ese4ab" ] },
-{ "url": "", "poolName": "miningpatriot.com",    "searchStrings": [ "BEkymJhBg8NxpREfAqSM3UsM1pnurQHuf5" ] }
-
-]
+  { 
+    "poolName": "minermore.com",        
+    "url": "https://minermore.com",        
+    "searchStrings": [ "BRTraysiJ1qi6Y1nB1q44NcfM1eENptH63" ] 
+  },
+  { 
+    "poolName": "gos.cx",               
+    "url": "https://gos.cx",               
+    "searchStrings": [ "BLbhzsRhwfhL9QwhgZ3RL7Sis44DAbNHDS" ] 
+  },
+  { 
+    "poolName": "icemining.ca",         
+    "url": "https://icemining.ca",         
+    "searchStrings": [ "BJ3kW4QDH81NqFCmj9LNg98yWY4Fo8hRqB" ] 
+  },
+  { 
+    "poolName": "xd.dapool.me",         
+    "url": "https://xd.dapool.me",         
+    "searchStrings": [ "BHbfJJehD1QNCUZQHeLmD8fsY7LgfBNGXo" ] 
+  },
+  { 
+    "poolName": "phi-phi-pool.com",     
+    "url": "https://phi-phi-pool.com",     
+    "searchStrings": [ "BMeFkKiPMrZToUrs8CwCaiSj82t9MNUhiH" ] 
+  },
+  { 
+    "poolName": "pickaxe.pro",          
+    "url": "https://pickaxe.pro",          
+    "searchStrings": [ "BBkBEQYj24uCbQXzzfFz81UZNQvb5B7ZXd" ] 
+  },
+  { 
+    "poolName": "blockify.xyz",         
+    "url": "https://blockify.xyz",         
+    "searchStrings": [ "BBnEoEe41fZNHAwjELWd7PYSmCKbV1egTM" ] 
+  },
+  { 
+    "poolName": "coolmine.top",         
+    "url": "https://coolmine.top",         
+    "searchStrings": [ "BBC73PNiR7Es5gmnGH57CxvLfUYxLWFMLy" ] 
+  },
+  { 
+    "poolName": "marspool.org",         
+    "url": "https://marspool.org",         
+    "searchStrings": [ "BS4ccCdMGaCKeCvjUpDQvse61VKaMgJGwR" ] 
+  },
+  { 
+    "poolName": "blockchainmeup.org",   
+    "url": "https://blockchainmeup.org",   
+    "searchStrings": [ "B8SWL8qrA8ndzLev6aEKKpRCfxtZp6Fjny" ] 
+  },
+  { 
+    "poolName": "antares-pool.club",    
+    "url": "https://antares-pool.club",    
+    "searchStrings": [ "B9b3CFHdA8tFc3NYtnRLqDGPTZeQ1SDAs8" ] 
+  },
+  { 
+    "poolName": "hashfaster.com",       
+    "url": "https://hashfaster.com",       
+    "searchStrings": [ "BPojezeQP4KnT2n59zgKPqXvXLMtEqMZLn" ] 
+  },
+  { 
+    "poolName": "nosuchpool.cloud",     
+    "url": "https://nosuchpool.cloud",     
+    "searchStrings": [ "BGL4wzd4mZyzfsdcR6TPsHFMkcf2XRjhP9" ] 
+  },
+  { 
+    "poolName": "focus-pool.com",       
+    "url": "https://focus-pool.com",       
+    "searchStrings": [ "BBYbqnFNdz9xAjnS2nG8vMjfdkPRoAXX3e" ] 
+  },
+  { 
+    "poolName": "cryptopool.cash",      
+    "url": "https://cryptopool.cash",      
+    "searchStrings": [ "BEYEByKfj5DciJ2duoZyhRUeJHqe2MxxxC" ] 
+  },
+  { 
+    "poolName": "pool.rig.tokyo",       
+    "url": "https://pool.rig.tokyo",       
+    "searchStrings": [ "BMnMfaDJSE2giPfAMVybmMbwjL9sjg9Ug8" ] 
+  },
+  { 
+    "poolName": "arcpool",              
+    "url": "https://arcpool",              
+    "searchStrings": [ "BRdk2DanqwfBk1oNKhK9Fnt6hSf9Ese4ab" ] 
+  },
+  { 
+    "poolName": "miningpatriot.com",    
+    "url": "https://miningpatriot.com",    
+    "searchStrings": [ "BEkymJhBg8NxpREfAqSM3UsM1pnurQHuf5" ] 
+  }
+  ]
