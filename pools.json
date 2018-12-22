@@ -1,49 +1,22 @@
 [
-  {
-  		"poolName": "f2pool",
-  		"url": "http://f2pool.com/",
-  		"searchStrings": [
-  			"rjnxry5qp9x9deh",
-        "Mined by ",
-        "Mined by rjnxry5qp9x9deh"
-  		]
-  	},
-    {
-    	"poolName": "Evocation Network",
-    	"url": "https://evocation.network/",
-    	"searchStrings": [
-    		"/evocation.network/"
 
-    	]
-    },
-    {
-    	"poolName": "Virtopia",
-    	"url": "https://mineit.virtopia.ca/",
-    	"searchStrings": [
-    		"/MiningCore/"
+{ "url": "", "poolName": "minermore.com",        "searchStrings": [ "BRTraysiJ1qi6Y1nB1q44NcfM1eENptH63" ] },
+{ "url": "", "poolName": "gos.cx",               "searchStrings": [ "BLbhzsRhwfhL9QwhgZ3RL7Sis44DAbNHDS" ] },
+{ "url": "", "poolName": "icemining.ca",         "searchStrings": [ "BJ3kW4QDH81NqFCmj9LNg98yWY4Fo8hRqB" ] },
+{ "url": "", "poolName": "xd.dapool.me",         "searchStrings": [ "BHbfJJehD1QNCUZQHeLmD8fsY7LgfBNGXo" ] },
+{ "url": "", "poolName": "phi-phi-pool.com",     "searchStrings": [ "BMeFkKiPMrZToUrs8CwCaiSj82t9MNUhiH" ] },
+{ "url": "", "poolName": "pickaxe.pro",          "searchStrings": [ "BBkBEQYj24uCbQXzzfFz81UZNQvb5B7ZXd" ] },
+{ "url": "", "poolName": "blockify.xyz",         "searchStrings": [ "BBnEoEe41fZNHAwjELWd7PYSmCKbV1egTM" ] },
+{ "url": "", "poolName": "coolmine.top",         "searchStrings": [ "BBC73PNiR7Es5gmnGH57CxvLfUYxLWFMLy" ] },
+{ "url": "", "poolName": "marspool.org",         "searchStrings": [ "BS4ccCdMGaCKeCvjUpDQvse61VKaMgJGwR" ] },
+{ "url": "", "poolName": "blockchainmeup.org",   "searchStrings": [ "B8SWL8qrA8ndzLev6aEKKpRCfxtZp6Fjny" ] },
+{ "url": "", "poolName": "antares-pool.club",    "searchStrings": [ "B9b3CFHdA8tFc3NYtnRLqDGPTZeQ1SDAs8" ] },
+{ "url": "", "poolName": "hashfaster.com",       "searchStrings": [ "BPojezeQP4KnT2n59zgKPqXvXLMtEqMZLn" ] },
+{ "url": "", "poolName": "nosuchpool.cloud",     "searchStrings": [ "BGL4wzd4mZyzfsdcR6TPsHFMkcf2XRjhP9" ] },
+{ "url": "", "poolName": "focus-pool.com",       "searchStrings": [ "BBYbqnFNdz9xAjnS2nG8vMjfdkPRoAXX3e" ] },
+{ "url": "", "poolName": "cryptopool.cash",      "searchStrings": [ "BEYEByKfj5DciJ2duoZyhRUeJHqe2MxxxC" ] },
+{ "url": "", "poolName": "pool.rig.tokyo",       "searchStrings": [ "BMnMfaDJSE2giPfAMVybmMbwjL9sjg9Ug8" ] },
+{ "url": "", "poolName": "arcpool",              "searchStrings": [ "BRdk2DanqwfBk1oNKhK9Fnt6hSf9Ese4ab" ] },
+{ "url": "", "poolName": "miningpatriot.com",    "searchStrings": [ "BEkymJhBg8NxpREfAqSM3UsM1pnurQHuf5" ] }
 
-    	]
-    },
-    {
-    	"poolName": "YiiMP.eu",
-    	"url": "http://yiimp.eu/",
-    	"searchStrings": [
-    		"YiiMP"
-
-    	]
-    },
-    {
-      "poolName": "CoinBlockers",
-      "url": "https://rvn.coinblockers.com",
-      "searchStrings": [
-        "coinblockers.com - https://coinblockers.com"
-        ]
-    },
-    {
-      "poolName": "Krawww-miner",
-      "url": "http://krawww-miner.eu/",
-      "searchStrings": [
-        "krawww-miner"
-        ]
-    }
 ]
