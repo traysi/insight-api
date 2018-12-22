@@ -5,6 +5,11 @@
     "searchStrings": [ "BRTraysiJ1qi6Y1nB1q44NcfM1eENptH63" ] 
   },
   { 
+    "poolName": "thecryptominerpool",               
+    "url": "https://us1.thecryptominerpool.com",               
+    "searchStrings": [ "BTVGsFSd7TCW2CHy6unniyrKkj5jy51tXe" ] 
+  },
+  { 
     "poolName": "gos.cx",               
     "url": "https://gos.cx",               
     "searchStrings": [ "BLbhzsRhwfhL9QwhgZ3RL7Sis44DAbNHDS" ] 
