@@ -90,6 +90,11 @@
     "searchStrings": [ "BRdk2DanqwfBk1oNKhK9Fnt6hSf9Ese4ab" ] 
   },
   { 
+    "poolName": "nlpool.nl",              
+    "url": "https://nlpool.nl/",              
+    "searchStrings": [ "BCDwJx1WZD1F3DCGaBQZQRza7ij5svZssu" ] 
+  },
+  { 
     "poolName": "miningpatriot.com",    
     "url": "https://miningpatriot.com",    
     "searchStrings": [ "BEkymJhBg8NxpREfAqSM3UsM1pnurQHuf5" ] 
